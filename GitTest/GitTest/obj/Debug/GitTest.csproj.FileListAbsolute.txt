@@ -1,0 +1,5 @@
+c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\bin\Debug\GitTest.dll
+c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\bin\Debug\GitTest.pdb
+c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\obj\Debug\GitTest.dll
+c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\obj\Debug\GitTest.pdb

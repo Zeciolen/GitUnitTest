@@ -1,0 +1,14 @@
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\BankTest.dll
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\BankTest.pdb
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\GitTest.dll
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\GitTest.pdb
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\obj\Debug\BankTest.dll
+c:\Users\Hyrum\documents\visual studio 2017\Projects\GitTest\BankTest\obj\Debug\BankTest.pdb
