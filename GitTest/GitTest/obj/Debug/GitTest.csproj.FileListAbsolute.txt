@@ -3,3 +3,9 @@ c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\bin\Debug\G
 c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
 c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\obj\Debug\GitTest.dll
 c:\users\hyrum\documents\visual studio 2017\Projects\GitTest\GitTest\obj\Debug\GitTest.pdb
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\GitTest\bin\Debug\GitTest.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\GitTest\obj\Debug\GitTest.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\GitTest\obj\Debug\GitTest.pdb

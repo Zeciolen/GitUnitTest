@@ -5,7 +5,7 @@ using BankLib;
 namespace BankTest
 {
     [TestClass]
-    public class UnitTest1
+    public class Test_Bank
     {
         [TestMethod]
         public void TestConstructors()

@@ -1,0 +1,15 @@
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\BankTest.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\BankTest.pdb
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\GitTest.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\GitTest.pdb
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\obj\Debug\BankTest.dll
+C:\Users\mrrte\Documents\GitHub\CS296Materials\GitUnitTest\GitTest\BankTest\obj\Debug\BankTest.pdb
